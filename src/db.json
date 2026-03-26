@@ -1,0 +1,32 @@
+{
+  "products": [
+    { "id": 1, "name": "AirPods Pro Max", "category": "Electronics", "price": 549, "originalPrice": 749, "discount": 27, "rating": 4.8, "reviews": 2341, "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80", "isOffer": true, "stock": 15 },
+    { "id": 2, "name": "Minimal Sneakers", "category": "Footwear", "price": 129, "originalPrice": 199, "discount": 35, "rating": 4.6, "reviews": 876, "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80", "isOffer": true, "stock": 42 },
+    { "id": 3, "name": "Leather Tote Bag", "category": "Accessories", "price": 89, "originalPrice": 150, "discount": 41, "rating": 4.7, "reviews": 543, "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&q=80", "isOffer": true, "stock": 8 },
+    { "id": 4, "name": "Smart Watch Pro", "category": "Electronics", "price": 299, "originalPrice": 399, "discount": 25, "rating": 4.5, "reviews": 1203, "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80", "isOffer": true, "stock": 20 },
+    { "id": 5, "name": "Linen Summer Dress", "category": "Clothing", "price": 65, "originalPrice": 110, "discount": 41, "rating": 4.4, "reviews": 329, "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400&q=80", "isOffer": false, "stock": 35 },
+    { "id": 6, "name": "Ceramic Coffee Set", "category": "Home", "price": 48, "originalPrice": 75, "discount": 36, "rating": 4.9, "reviews": 712, "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&q=80", "isOffer": true, "stock": 12 },
+    { "id": 7, "name": "Running Shoes Elite", "category": "Footwear", "price": 159, "originalPrice": 220, "discount": 28, "rating": 4.7, "reviews": 994, "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=400&q=80", "isOffer": false, "stock": 50 },
+    { "id": 8, "name": "Wireless Keyboard", "category": "Electronics", "price": 79, "originalPrice": 120, "discount": 34, "rating": 4.3, "reviews": 445, "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&q=80", "isOffer": false, "stock": 30 },
+    { "id": 9, "name": "Silk Scarf", "category": "Accessories", "price": 45, "originalPrice": 80, "discount": 44, "rating": 4.6, "reviews": 231, "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=400&q=80", "isOffer": true, "stock": 25 },
+    { "id": 10, "name": "Indoor Plant Set", "category": "Home", "price": 35, "originalPrice": 55, "discount": 36, "rating": 4.8, "reviews": 876, "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&q=80", "isOffer": false, "stock": 60 },
+    { "id": 11, "name": "Denim Jacket", "category": "Clothing", "price": 95, "originalPrice": 140, "discount": 32, "rating": 4.5, "reviews": 567, "image": "https://images.unsplash.com/photo-1523205771623-e0faa4d2813d?w=400&q=80", "isOffer": false, "stock": 22 },
+    { "id": 12, "name": "Noise Cancelling Buds", "category": "Electronics", "price": 199, "originalPrice": 279, "discount": 29, "rating": 4.6, "reviews": 1567, "image": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=400&q=80", "isOffer": true, "stock": 18 },
+    { "id": 13, "name": "Canvas Backpack", "category": "Accessories", "price": 55, "originalPrice": 90, "discount": 39, "rating": 4.4, "reviews": 389, "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80", "isOffer": false, "stock": 45 },
+    { "id": 14, "name": "Yoga Mat Premium", "category": "Sports", "price": 42, "originalPrice": 70, "discount": 40, "rating": 4.7, "reviews": 654, "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=400&q=80", "isOffer": true, "stock": 38 },
+    { "id": 15, "name": "Perfume Collection", "category": "Beauty", "price": 88, "originalPrice": 130, "discount": 32, "rating": 4.8, "reviews": 891, "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=400&q=80", "isOffer": false, "stock": 14 },
+    { "id": 16, "name": "Mechanical Keyboard", "category": "Electronics", "price": 149, "originalPrice": 199, "discount": 25, "rating": 4.5, "reviews": 723, "image": "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?w=400&q=80", "isOffer": false, "stock": 28 }
+  ],
+  "categories": [
+    { "id": 1, "name": "Electronics", "icon": "💻", "color": "#6366f1", "count": 4 },
+    { "id": 2, "name": "Clothing", "icon": "👗", "color": "#ec4899", "count": 2 },
+    { "id": 3, "name": "Footwear", "icon": "👟", "color": "#f59e0b", "count": 2 },
+    { "id": 4, "name": "Accessories", "icon": "👜", "color": "#10b981", "count": 3 },
+    { "id": 5, "name": "Home", "icon": "🏠", "color": "#8b5cf6", "count": 2 },
+    { "id": 6, "name": "Sports", "icon": "⚽", "color": "#ef4444", "count": 1 },
+    { "id": 7, "name": "Beauty", "icon": "💄", "color": "#f97316", "count": 1 }
+  ],
+  "users": [
+    { "id": 1, "name": "Demo User", "email": "demo@shop.com", "password": "demo123", "avatar": "DU", "joined": "Jan 2024", "orders": 12 }
+  ]
+}
