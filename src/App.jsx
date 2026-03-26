@@ -201,8 +201,8 @@ const STYLES = `
   }
   .hero-inner { max-width:1200px; width:100%; display:grid; grid-template-columns:1fr 1fr; gap:60px; align-items:center; }
   .hero-tag { display:inline-flex; align-items:center; gap:6px; background:rgba(255,60,95,0.1); border:1px solid rgba(255,60,95,0.3); color:var(--accent); padding:6px 14px; border-radius:999px; font-size:0.78rem; font-weight:600; margin-bottom:20px; }
-  .hero-title { font-size:clamp(2.5rem,5vw,4rem); line-height:1.1; font-weight:800; margin-bottom:20px; }
-  .hero-title span { background:linear-gradient(135deg,var(--accent),var(--accent2),color:var(--text),var(--gold)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+  .hero-title { font-size:clamp(2.5rem,5vw,4rem); line-height:1.1; font-weight:800; color:var(--text);margin-bottom:20px; }
+  .hero-title span { background:linear-gradient(135deg,var(--accent),var(--accent2),var(--gold)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
   .hero-sub { color:var(--muted); font-size:1.1rem; line-height:1.7; margin-bottom:36px; }
   .hero-btns { display:flex; gap:14px; flex-wrap:wrap; }
   .btn-primary {
